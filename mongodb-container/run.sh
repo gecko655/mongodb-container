@@ -1,1 +1,1 @@
-docker run --name mongo --volumes-from data mongo
+docker run -d --name mongo --volumes-from data mongo

@@ -1,3 +1,3 @@
 FROM busybox
-VOLUME /opt
+VOLUME /data/db
 CMD /bin/sh

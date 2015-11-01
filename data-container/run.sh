@@ -1,1 +1,1 @@
-docker run -it --name data gecko655/data
+docker run -d --name data gecko655/data
