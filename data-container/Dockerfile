@@ -1,3 +1,3 @@
 FROM busybox
 VOLUME /opt
-CMD /bin/bash
+CMD /bin/sh
